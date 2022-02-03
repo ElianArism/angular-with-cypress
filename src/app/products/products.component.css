@@ -1,0 +1,15 @@
+ol {
+  height: 100%;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color: #f3f3f3;
+}
+
+li {
+  color: #f3f3f3;
+  margin: 10px 0;
+}

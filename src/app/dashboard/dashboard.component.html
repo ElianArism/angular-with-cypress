@@ -1,0 +1,10 @@
+<input
+  type="text"
+  placeholder="Product name"
+  [(ngModel)]="inputValue"
+  id="product"
+  (keydown.Enter)="addProduct()"
+  autocomplete="off"
+/>
+
+<button (click)="addProduct()">Add product</button>
