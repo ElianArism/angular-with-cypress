@@ -10,7 +10,7 @@
   npm run cypress:run // Run all tests automatically by console
 ```
 
-## Especificaciones de un proyecto de angular con Cypress
+## Specifications of an angular project with Cypress
 
 To add Cypress to a project, run `ng add @cypress/schematic`.
 This will create a `cypress` folder and its configuration files, as well as add
